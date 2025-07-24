@@ -1,0 +1,16 @@
+
+# My Climate Change Modeling Project
+
+## What I Did
+I looked at temperature data from 2000 to 2020 and made a graph to see how the Earth is getting warmer. I used a data science tool called Linear Regression to predict future temperatures.
+
+## What I Found
+The Earth is getting hotter! My model predicts:
+- In 2025, it might be around 17.0°C.
+- In 2030, it might be around 17.5°C.
+
+## Why It Matters
+Climate change is warming our planet, which can hurt animals, plants, and people. We can help by planting trees, saving energy, and recycling!
+
+## My Pictures
+Look at my graphs: 'temperature_trend.png' and 'temperature_predictions.png'!
